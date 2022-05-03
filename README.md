@@ -5,6 +5,6 @@ I'm Cavin! I'm a Software Engineer with over 15 years of experience in developin
 - 🔭 I’m currently working on building a new portfolio site.
 - 🌱 I’m currently learning React
 - 💬 Ask me about my upcoming project
-- 📫 How to reach me: [mailto:contact@cavinmyers.com](contact@cavinmyers.com)
+- 📫 How to reach me: [business@cavinmyers.com](mailto:business@cavinmyers.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a bit of an audiophile
