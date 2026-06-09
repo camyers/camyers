@@ -16,7 +16,7 @@ My experience spans:
 
 ## Featured Projects
 
-### Browser Extension for Miacademy.co
+### [Browser Extension for Miacademy.co](https://github.com/camyers/miacademy-browser-extension)
 _This browser extension is an independent, community-developed project and is in no way affiliated with, endorsed by, or connected to Miacademy.co or its parent company. This is an unofficial extension created for the convenience of users._
 
 #### Problem
