@@ -2,13 +2,15 @@
 
 Every featured project is a card in the two-column table in [README.md](../README.md). Follow these steps so every card looks the same.
 
-## 1. Create the banner in the project repo
+## 1. Generate the banner on cavinmyers.com
 
-- **Size:** 1280×640 PNG. This is also GitHub's social preview size, so you can reuse it under the repo's *Settings → Social preview*.
-- **Content:** the project title plus a small screenshot of the project, matching the existing banners:
-  - [librewxr-viewer](https://raw.githubusercontent.com/camyers/librewxr-viewer/main/docs/images/banner.png)
-  - [agent-harness](https://raw.githubusercontent.com/camyers/agent-harness/main/docs/images/banner.png)
-- **Path:** commit it to `docs/images/banner.png` on the repo's `main` branch.
+The website repo ([camyers/cavinmyers.com](https://github.com/camyers/cavinmyers.com)) draws every project's banner, so they all match. Each banner shows the project screenshot on top, then the title and a one-line tagline.
+
+1. Add the project's page to `content/projects/<slug>.md`, with an `image` (3:2, for example 1500×1000) and a `tagline` (one line, 55 characters at most).
+2. Run `npm run og` and commit `public/banners`, `public/og` and `scripts/og/manifest.json`. The site build fails if a banner is missing or out of date.
+3. After it deploys, the banner is at `https://cavinmyers.com/banners/<slug>.png`.
+
+Use the repo name as the slug so the banner, project page and repo URLs line up.
 
 ## 2. Add a card to the README
 
@@ -17,7 +19,7 @@ Paste this snippet into the next empty `<td>` in the Featured Projects table:
 ```html
 <td width="50%" valign="top">
   <a href="https://github.com/camyers/REPO">
-    <img src="https://raw.githubusercontent.com/camyers/REPO/main/docs/images/banner.png" alt="PROJECT TITLE">
+    <img src="https://cavinmyers.com/banners/REPO.png" alt="PROJECT TITLE">
   </a>
   <p>One sentence about the problem the project solves and why it matters.</p>
   <p><a href="https://github.com/camyers/REPO">Repo</a> · <a href="https://cavinmyers.com/projects/REPO">Write-up</a></p>
@@ -28,16 +30,6 @@ Paste this snippet into the next empty `<td>` in the Featured Projects table:
 - Each `<tr>` holds two cards. If a row has only one card, keep an empty `<td width="50%" valign="top"></td>` beside it so the layout holds.
 - Keep the caption to one or two sentences. The full Problem/Solution story belongs in the project's own README and its write-up on cavinmyers.com.
 - Add a `Tutorial` link if a blog series goes with the project.
-
-## Fallback banner
-
-If a project doesn't have a banner yet, use GitHub's generated preview image until it does:
-
-```
-https://opengraph.githubassets.com/1/camyers/REPO
-```
-
-**To do:** the Miacademy extension currently uses this fallback. Replace it once `docs/images/banner.png` exists in that repo.
 
 # Latest Posts
 

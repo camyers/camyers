@@ -25,14 +25,14 @@ I have 18+ years of experience building and modernizing web applications, analyt
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/camyers/librewxr-viewer">
-        <img src="https://raw.githubusercontent.com/camyers/librewxr-viewer/main/docs/images/banner.png" alt="LibreWXR Viewer">
+        <img src="https://cavinmyers.com/banners/librewxr-viewer.png" alt="LibreWXR Viewer">
       </a>
       <p>A self-hosted weather radar viewer built on the LibreWXR examples. It runs in my homelab.</p>
       <p><a href="https://github.com/camyers/librewxr-viewer">Repo</a> · <a href="https://cavinmyers.com/projects/librewxr-viewer">Write-up</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/camyers/agent-harness">
-        <img src="https://raw.githubusercontent.com/camyers/agent-harness/main/docs/images/banner.png" alt="Agent Harness">
+        <img src="https://cavinmyers.com/banners/agent-harness.png" alt="Agent Harness">
       </a>
       <p>An AI agent harness I built from scratch in Python to learn how the tool-calling loop and its guardrails actually work.</p>
       <p><a href="https://github.com/camyers/agent-harness">Repo</a> · <a href="https://cavinmyers.com/projects/agent-harness">Write-up</a> · <a href="https://cavinmyers.com/blog/agent-harness">Tutorial</a></p>
@@ -41,7 +41,7 @@ I have 18+ years of experience building and modernizing web applications, analyt
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/camyers/miacademy-browser-extension">
-        <img src="https://opengraph.githubassets.com/1/camyers/miacademy-browser-extension" alt="Browser Extension for Miacademy.co">
+        <img src="https://cavinmyers.com/banners/miacademy-browser-extension.png" alt="Browser Extension for Miacademy.co">
       </a>
       <p>A browser extension that declutters Miacademy.co so young students can focus on learning. This is an unofficial community project and isn't affiliated with Miacademy.</p>
       <p><a href="https://github.com/camyers/miacademy-browser-extension">Repo</a> · <a href="https://cavinmyers.com/projects/miacademy-browser-extension">Write-up</a></p>
