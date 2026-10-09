@@ -22,23 +22,31 @@ Paste this snippet into the next empty `<td>` in the Featured Projects table:
     <img src="https://cavinmyers.com/banners/REPO.png" alt="PROJECT TITLE">
   </a>
   <p>One sentence about the problem the project solves and why it matters.</p>
-  <p><a href="https://github.com/camyers/REPO">Repo</a> · <a href="https://cavinmyers.com/projects/REPO">Write-up</a></p>
+  <p>
+    <a href="https://github.com/camyers/REPO"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+    <a href="https://cavinmyers.com/projects/REPO"><img src="https://img.shields.io/badge/Write--up-E8613C?style=for-the-badge&logo=markdown&logoColor=white" alt="Write-up"></a>
+  </p>
 </td>
 ```
 
 - Put the newest or strongest projects first.
 - Each `<tr>` holds two cards. If a row has only one card, keep an empty `<td width="50%" valign="top"></td>` beside it so the layout holds.
 - Keep the caption to one or two sentences. The full Problem/Solution story belongs in the project's own README and its write-up on cavinmyers.com.
-- Add a `Tutorial` link if a blog series goes with the project.
+- Buttons keep the same order, label, icon and color on every card: **Repo** (black, `github`), **Write-up** (orange `E8613C`, `markdown`), **Tutorial** (teal `1F8FA8`, `gitbook`). Add the Tutorial button only when a blog series goes with the project:
+
+  ```html
+  <a href="https://cavinmyers.com/blog/SERIES"><img src="https://img.shields.io/badge/Tutorial-1F8FA8?style=for-the-badge&logo=gitbook&logoColor=white" alt="Tutorial"></a>
+  ```
+- In a shields.io label, a dash is written `--`, a space `%20` and a comma `%2C`.
 
 # Latest Posts
 
 The list sits between the `<!-- BLOG-POST-LIST:START -->` and `<!-- BLOG-POST-LIST:END -->` markers. Each entry uses this format:
 
 ```md
-- **Mon D, YYYY:** [Post Title](https://cavinmyers.com/blog/slug)
+- ![Mon D, YYYY](https://img.shields.io/badge/Mon%20D%2C%20YYYY-555555?style=flat-square&logo=googlecalendar&logoColor=white) [Post Title](https://cavinmyers.com/blog/slug)
 ```
 
 Keep the 5 most recent posts, newest first.
 
-These markers are the ones [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) uses, so the list can be filled automatically from `https://cavinmyers.com/feed.xml`. A PR opened from the website repo can also fill it. One catch: the feed currently includes the individual Agent Harness phase pages, so those would need to be filtered out or left out of the feed first.
+These markers are the ones [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) uses, so the list can be filled automatically from `https://cavinmyers.com/feed.xml`. A PR opened from the website repo can also fill it. Either way, the template has to output the date badge above (blog-post-workflow's `template` and `date_format` options can do this). One catch: the feed currently includes the individual Agent Harness phase pages, so those would need to be filtered out or left out of the feed first.

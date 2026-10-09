@@ -28,14 +28,21 @@ I have 18+ years of experience building and modernizing web applications, analyt
         <img src="https://cavinmyers.com/banners/librewxr-viewer.png" alt="LibreWXR Viewer">
       </a>
       <p>A self-hosted weather radar viewer built on the LibreWXR examples. It runs in my homelab.</p>
-      <p><a href="https://github.com/camyers/librewxr-viewer">Repo</a> · <a href="https://cavinmyers.com/projects/librewxr-viewer">Write-up</a></p>
+      <p>
+        <a href="https://github.com/camyers/librewxr-viewer"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+        <a href="https://cavinmyers.com/projects/librewxr-viewer"><img src="https://img.shields.io/badge/Write--up-E8613C?style=for-the-badge&logo=markdown&logoColor=white" alt="Write-up"></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/camyers/agent-harness">
         <img src="https://cavinmyers.com/banners/agent-harness.png" alt="Agent Harness">
       </a>
       <p>An AI agent harness I built from scratch in Python to learn how the tool-calling loop and its guardrails actually work.</p>
-      <p><a href="https://github.com/camyers/agent-harness">Repo</a> · <a href="https://cavinmyers.com/projects/agent-harness">Write-up</a> · <a href="https://cavinmyers.com/blog/agent-harness">Tutorial</a></p>
+      <p>
+        <a href="https://github.com/camyers/agent-harness"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+        <a href="https://cavinmyers.com/projects/agent-harness"><img src="https://img.shields.io/badge/Write--up-E8613C?style=for-the-badge&logo=markdown&logoColor=white" alt="Write-up"></a>
+        <a href="https://cavinmyers.com/blog/agent-harness"><img src="https://img.shields.io/badge/Tutorial-1F8FA8?style=for-the-badge&logo=gitbook&logoColor=white" alt="Tutorial"></a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -44,7 +51,10 @@ I have 18+ years of experience building and modernizing web applications, analyt
         <img src="https://cavinmyers.com/banners/miacademy-browser-extension.png" alt="Browser Extension for Miacademy.co">
       </a>
       <p>A browser extension that declutters Miacademy.co so young students can focus on learning. This is an unofficial community project and isn't affiliated with Miacademy.</p>
-      <p><a href="https://github.com/camyers/miacademy-browser-extension">Repo</a> · <a href="https://cavinmyers.com/projects/miacademy-browser-extension">Write-up</a></p>
+      <p>
+        <a href="https://github.com/camyers/miacademy-browser-extension"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+        <a href="https://cavinmyers.com/projects/miacademy-browser-extension"><img src="https://img.shields.io/badge/Write--up-E8613C?style=for-the-badge&logo=markdown&logoColor=white" alt="Write-up"></a>
+      </p>
     </td>
     <td width="50%" valign="top"></td>
   </tr>
@@ -53,15 +63,11 @@ I have 18+ years of experience building and modernizing web applications, analyt
 ## Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- **Sep 18, 2026:** [Build Your Own Agent Harness: A Phase-by-Phase Plan](https://cavinmyers.com/blog/agent-harness)
-- **Jul 3, 2026:** [Building a Browser Extension to Declutter Miacademy.co](https://cavinmyers.com/blog/building-the-miacademy-browser-extension)
+- ![Sep 18, 2026](https://img.shields.io/badge/Sep%2018%2C%202026-555555?style=flat-square&logo=googlecalendar&logoColor=white) [Build Your Own Agent Harness: A Phase-by-Phase Plan](https://cavinmyers.com/blog/agent-harness)
+- ![Jul 3, 2026](https://img.shields.io/badge/Jul%203%2C%202026-555555?style=flat-square&logo=googlecalendar&logoColor=white) [Building a Browser Extension to Declutter Miacademy.co](https://cavinmyers.com/blog/building-the-miacademy-browser-extension)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [All posts on cavinmyers.com](https://cavinmyers.com/blog)
-
-## Where I've Worked
-
-Over 11+ companies, my clients and employers have included Intuit Mailchimp, Tensure, Speedway, Legrand, Dayton Power & Light, Melink, Five Rivers MetroParks, and Orthopedic Associates.
+[![All posts on cavinmyers.com](https://img.shields.io/badge/cavinmyers.com-All%20Posts-E8613C?style=for-the-badge&logo=rss&logoColor=white)](https://cavinmyers.com/blog)
 
 ## Active Certifications
 
@@ -70,9 +76,8 @@ Over 11+ companies, my clients and employers have included Intuit Mailchimp, Ten
 
 ## Current Focus
 
-- Building a Kubernetes homelab with Argo CD and GitOps
-- Expanding my expertise in cloud-native architecture
-- Exploring advanced AI-assisted developer workflows
+- Building with AI: agent harnesses, tool-calling loops, and AI-assisted developer workflows
+- Studying for the Claude Certified Architect – Professional exam
 
 ## Let's Connect
 
