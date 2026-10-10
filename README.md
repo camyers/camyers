@@ -1,6 +1,6 @@
 # Hi, I'm Cavin Myers
 
-**Lead Software Engineer** · Cincinnati, Ohio · Full-stack and platform engineering
+**Lead Software Engineer** · Cincinnati, Ohio · Full-stack engineering and AI
 
 I have 18+ years of experience building and modernizing web applications, analytics systems, and enterprise platforms, and I've led delivery for 13+ of those years. I guide architecture across frontend, backend, analytics, and cloud, and I mentor the engineers I work with.
 
@@ -13,14 +13,13 @@ I have 18+ years of experience building and modernizing web applications, analyt
 - **Technical leadership:** I lead delivery and architecture decisions across full-stack teams.
 - **App modernization:** I move legacy PHP and eCommerce platforms onto React-based stacks.
 - **Analytics and data:** I've handled GA4 migrations, tag management, and Google Cloud reporting.
-- **Platform and DevOps:** I build CI/CD and deployment automation, use GitOps, and work on developer experience.
+- **Building with AI:** I build with LLMs and AI coding agents, from an agent harness written from scratch to AI-assisted developer workflows.
 - **Team mentoring:** I help engineers grow through code review, pairing, and clear technical direction.
 
-**Stack:** PHP · Laravel · React · TypeScript · CI/CD · Google Cloud · Kubernetes · Argo CD
+**Stack:** PHP · Laravel · React · TypeScript · Python · CI/CD · Google Cloud
 
 ## Featured Projects
 
-<!-- To add a project, see docs/featured-projects.md -->
 <table>
   <tr>
     <td width="50%" valign="top">
