@@ -77,7 +77,3 @@ I have 18+ years of experience building and modernizing web applications, analyt
 
 - Building with AI: agent harnesses, tool-calling loops, and AI-assisted developer workflows
 - Studying for the Claude Certified Architect – Professional exam
-
-## Let's Connect
-
-I'm open to new opportunities. Reach out on [LinkedIn](https://www.linkedin.com/in/cavinmyers) or through the [contact form on my site](https://cavinmyers.com/#contact-section).
