@@ -16,7 +16,7 @@ I have 18+ years of experience building and modernizing web applications, analyt
 - **Building with AI:** I build with LLMs and AI coding agents, from an agent harness written from scratch to AI-assisted developer workflows.
 - **Team mentoring:** I help engineers grow through code review, pairing, and clear technical direction.
 
-**Stack:** PHP · Laravel · React · TypeScript · Python · CI/CD · Google Cloud
+**Stack:** PHP · Laravel · React · TypeScript · CI/CD · Cloud Platforms
 
 ## Featured Projects
 
