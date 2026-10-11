@@ -28,7 +28,7 @@ I have 18+ years of experience building and modernizing web applications, analyt
       </a>
       <p>A self-hosted weather radar viewer for my family, built on LibreWXR, with address search, a pinned location and current weather.</p>
       <p>
-        <a href="https://github.com/camyers/librewxr-viewer"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+        <a href="https://github.com/camyers/librewxr-viewer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Repo-FFFFFF?style=for-the-badge&logo=github&logoColor=181717"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></picture></a>
         <a href="https://cavinmyers.com/projects/librewxr-viewer"><img src="https://img.shields.io/badge/Write--up-E8613C?style=for-the-badge&logo=markdown&logoColor=white" alt="Write-up"></a>
       </p>
     </td>
@@ -38,7 +38,7 @@ I have 18+ years of experience building and modernizing web applications, analyt
       </a>
       <p>An AI agent harness I built from scratch in Python to learn how the tool-calling loop and its guardrails actually work.</p>
       <p>
-        <a href="https://github.com/camyers/agent-harness"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+        <a href="https://github.com/camyers/agent-harness"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Repo-FFFFFF?style=for-the-badge&logo=github&logoColor=181717"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></picture></a>
         <a href="https://cavinmyers.com/projects/agent-harness"><img src="https://img.shields.io/badge/Write--up-E8613C?style=for-the-badge&logo=markdown&logoColor=white" alt="Write-up"></a>
         <a href="https://cavinmyers.com/blog/agent-harness"><img src="https://img.shields.io/badge/Tutorial-1F8FA8?style=for-the-badge&logo=gitbook&logoColor=white" alt="Tutorial"></a>
       </p>
@@ -51,7 +51,7 @@ I have 18+ years of experience building and modernizing web applications, analyt
       </a>
       <p>A browser extension that declutters Miacademy.co so young students can focus on learning. This is an unofficial community project and isn't affiliated with Miacademy.</p>
       <p>
-        <a href="https://github.com/camyers/miacademy-browser-extension"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+        <a href="https://github.com/camyers/miacademy-browser-extension"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Repo-FFFFFF?style=for-the-badge&logo=github&logoColor=181717"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></picture></a>
         <a href="https://cavinmyers.com/projects/miacademy-browser-extension"><img src="https://img.shields.io/badge/Write--up-E8613C?style=for-the-badge&logo=markdown&logoColor=white" alt="Write-up"></a>
       </p>
     </td>
