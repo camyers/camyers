@@ -24,9 +24,9 @@ I have 18+ years of experience building and modernizing web applications, analyt
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/camyers/librewxr-viewer">
-        <img src="https://cavinmyers.com/banners/librewxr-viewer.png" alt="LibreWXR Viewer">
+        <img src="https://cavinmyers.com/banners/librewxr-viewer.png" alt="Our Own Weather Channel">
       </a>
-      <p>A self-hosted weather radar viewer built on the LibreWXR examples. It runs in my homelab.</p>
+      <p>A self-hosted weather radar viewer for my family, built on LibreWXR, with address search, a pinned location and current weather.</p>
       <p>
         <a href="https://github.com/camyers/librewxr-viewer"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
         <a href="https://cavinmyers.com/projects/librewxr-viewer"><img src="https://img.shields.io/badge/Write--up-E8613C?style=for-the-badge&logo=markdown&logoColor=white" alt="Write-up"></a>
